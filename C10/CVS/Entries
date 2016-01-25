@@ -1,0 +1,40 @@
+/Dependency1.h/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/Dependency2.h/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/Initializer/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/Initializer.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/Initializer.h/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/Initializer2/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/Initializer2.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/InitializerDefs/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/InitializerDefs.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/Makefile/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/Technique2.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex1.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex14.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex2.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex27.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex28.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex29.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex30.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex30.out/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31.hpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_1/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_1.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_2/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_2.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_3/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_3.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_4/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_4.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_5/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex31_5.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex35.c/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex35.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex4.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex5.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex7.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex8.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+/ex9.cpp/1.1.1.1/Sun Dec 13 06:21:09 2009//
+D/ex31_dependency_problem////
+D/ex31_dependency_problem_T2////
+D/ex31_dependency_problem_Technique1////

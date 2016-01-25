@@ -1,0 +1,5 @@
+
+namespace B
+{
+int b ;
+}
